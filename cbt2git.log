@@ -1,0 +1,20 @@
+2025-04-04 02:33:00.988633 - Received CBT.V508.FILE047.PDS from FILE047.XMI 
+2025-04-04 02:33:00.989674 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/$$$#DATE
+2025-04-04 02:33:00.989817 - Found $DOC.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/$DOC
+2025-04-04 02:33:00.989956 - Found @FILE047.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/@FILE047
+2025-04-04 02:33:00.990312 - Found ASM.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/ASM
+2025-04-04 02:33:00.990459 - Found CLISTS.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/CLISTS
+2025-04-04 02:33:00.990920 - Found CMD1.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/CMD1
+2025-04-04 02:33:00.991059 - Found EDX.bin (application/octet-stream) in CBT.V508.FILE047.PDS, moved to PDS/EDX
+2025-04-04 02:33:00.991178 - Found EXITS.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/EXITS
+2025-04-04 02:33:00.991293 - Found JCLFLOW.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/JCLFLOW
+2025-04-04 02:33:00.991541 - Found LISTICAT.bin (application/octet-stream) in CBT.V508.FILE047.PDS, moved to PDS/LISTICAT
+2025-04-04 02:33:00.991685 - Found MSGS.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/MSGS
+2025-04-04 02:33:00.991922 - Found NOCELL.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/NOCELL
+2025-04-04 02:33:00.992046 - Found PANELS.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/PANELS
+2025-04-04 02:33:00.992185 - Found RMFIII.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/RMFIII
+2025-04-04 02:33:00.992326 - Found SAS.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/SAS
+2025-04-04 02:33:00.992450 - Found SASOLDER.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/SASOLDER
+2025-04-04 02:33:00.992576 - Found SKELS.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/SKELS
+2025-04-04 02:33:00.992716 - Found SMPELIST.txt (text/plain) in CBT.V508.FILE047.PDS, moved to PDS/SMPELIST
+2025-04-04 02:33:00.992900 - Found TABLES.bin (application/octet-stream) in CBT.V508.FILE047.PDS, moved to PDS/TABLES
